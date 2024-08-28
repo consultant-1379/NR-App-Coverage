@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<feature>
+    <product-id>CNA 403 3892</product-id>
+    <feature-name>NR App Coverage</feature-name>
+    <release>24.3</release>
+    <system-area>5g</system-area>
+    <datasource-guid>efc46167-2283-4cb4-9ddc-2d69413fabc7</datasource-guid>
+    <ericsson-library>true</ericsson-library>
+</feature>
